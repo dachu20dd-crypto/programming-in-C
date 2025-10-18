@@ -5,5 +5,5 @@ void main()
     printf("enter the two values ");
     scanf("%d%d",&a,&b);
     c=a-b;
-    printf("the subtracted value of a is %d",c);
+    printf("the subtracted value is  %d",c);
 }
